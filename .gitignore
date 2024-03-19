@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/
+venv/
+.idea/
+.env
+.env.
+.env.production
+.vscode/
+*.log
+requirements.txt
